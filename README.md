@@ -1,4 +1,4 @@
-# lawFirn
+# lawFirm
 INTV-01 Assignment
 FDT-INTV-2 Final Take-home
 
